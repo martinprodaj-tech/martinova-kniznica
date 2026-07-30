@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#160d08" />
+    <meta name="description" content="Martinova osobná knižná polička." />
+    <meta property="og:title" content="Martinova knižnica" />
+    <meta property="og:description" content="Knihy, ktoré čakajú na prečítanie." />
+    <meta property="og:image" content="./public/og.png" />
+    <link rel="icon" href="./public/favicon.svg" />
+    <link rel="stylesheet" href="./pages.css" />
+    <title>Martinova knižnica</title>
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__glow"></div>
+      <div class="wrap hero__content">
+        <p class="eyebrow">Osobná knižná polička</p>
+        <h1>Martinova knižnica</h1>
+        <p class="intro">
+          Knihy, ktoré čakajú na svoju chvíľu. Vyhľadaj titul, pozri si hodnotenie
+          a prečítané knihy odlož do archívu.
+        </p>
+        <div class="stats" aria-live="polite">
+          <span><strong id="visible-count">0</strong> zobrazených</span>
+          <span><strong id="total-count">0</strong> kníh</span>
+          <span><strong id="read-count">0</strong> prečítaných</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="toolbar" aria-label="Ovládanie knižnice">
+        <label class="search">
+          <span class="sr-only">Hľadať knihu alebo autora</span>
+          <span aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="Hľadať knihu alebo autora…" />
+        </label>
+        <div class="tabs" role="tablist" aria-label="Stav kníh">
+          <button class="tab is-active" data-view="unread" role="tab" aria-selected="true">
+            Na prečítanie
+          </button>
+          <button class="tab" data-view="read" role="tab" aria-selected="false">
+            Prečítané
+          </button>
+        </div>
+      </section>
+
+      <section id="shelf" class="shelf" aria-live="polite"></section>
+      <p id="empty" class="empty" hidden>Na tejto poličke sa nič nenašlo.</p>
+    </main>
+
+    <footer>
+      <div class="wrap">Martinova knižnica · obálky zo zoznamu v Google Keep</div>
+    </footer>
+
+    <script src="./pages.js" defer></script>
+  </body>
+</html>
