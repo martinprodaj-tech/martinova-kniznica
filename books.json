@@ -1,5 +1,50 @@
 [
   {
+    "id": "hejtovania",
+    "title": "#hejtovania",
+    "author": "Viliam Klimáček",
+    "cover": "/covers/102.webp",
+    "description": "Satirický pohľad na nenávisť, sociálne siete a rozdelenú súčasnú spoločnosť.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=hejtovania%20Viliam%20Klim%C3%A1%C4%8Dek"
+  },
+  {
+    "id": "12-strategii-trida-ai",
+    "title": "12 strategií pro každou třídu ve věku AI",
+    "author": "Monica Burns",
+    "cover": "/covers/065.webp",
+    "description": "Praktický sprievodca zmysluplným a bezpečným využitím AI vo vyučovaní.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=12%20strategi%C3%AD%20pro%20ka%C5%BEdou%20t%C5%99%C3%ADdu%20ve%20v%C4%9Bku%20AI"
+  },
+  {
+    "id": "120-navrhov-zachranit-svet",
+    "title": "120 návrhov ako zachrániť svet",
+    "author": "Richard Weller",
+    "cover": "/covers/069.webp",
+    "description": "Atlas konkrétnych zásahov a projektov pre udržateľnejšiu budúcnosť planéty.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=120%20n%C3%A1vrhov%20ako%20zachr%C3%A1ni%C5%A5%20svet"
+  },
+  {
+    "id": "2084-ai-revolution",
+    "title": "2084 and the AI Revolution",
+    "author": "John C. Lennox",
+    "cover": "/covers/043.webp",
+    "description": "Úvaha o umelej inteligencii, budúcnosti ľudstva a etických hraniciach technológií.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=2084%20and%20the%20AI%20Revolution%20John%20Lennox"
+  },
+  {
+    "id": "80-na-kazdy-den",
+    "title": "80 na každý deň",
+    "author": "Richard Koch",
+    "cover": "/covers/144.webp",
+    "description": "Každodenné lekcie princípu 80/20 pre zdravie, prácu, rozhodovanie a spokojnosť.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=80%20na%20ka%C5%BEd%C3%BD%20de%C5%88%20Richard%20Koch"
+  },
+  {
     "id": "more-beautiful-question",
     "title": "A More Beautiful Question",
     "author": "Warren Berger",
@@ -27,6 +72,42 @@
     "source": "https://www.martinus.sk/search?q=Ako%20pochopi%C5%A5%20chudobu%20ke%C4%8F%20m%C3%A1te%20peniaze"
   },
   {
+    "id": "ako-sa-dohovorit",
+    "title": "Ako sa dohovoriť",
+    "author": "Jefferson Fisher",
+    "cover": "/covers/127.webp",
+    "description": "Praktické zásady pokojnej a pevnej komunikácie v náročných rozhovoroch.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Ako%20sa%20dohovori%C5%A5%20Jefferson%20Fisher"
+  },
+  {
+    "id": "ako-vediet-vsetko",
+    "title": "Ako vedieť všetko",
+    "author": "Elke Wiss",
+    "cover": "/covers/107.webp",
+    "description": "Ako sa lepšími otázkami dostať k presnejším odpovediam a hlbšiemu porozumeniu.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Ako%20vedie%C5%A5%20v%C5%A1etko%20Elke%20Wiss"
+  },
+  {
+    "id": "ako-vysvetlit-svet",
+    "title": "Ako vysvetliť svet",
+    "author": "Steven Weinberg",
+    "cover": "/covers/129.webp",
+    "description": "Dejiny modernej vedy a cesta od starých predstáv k vedeckému vysvetľovaniu sveta.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Ako%20vysvetli%C5%A5%20svet%20Steven%20Weinberg"
+  },
+  {
+    "id": "algospeak",
+    "title": "Algospeak",
+    "author": "Adam Aleksic",
+    "cover": "/covers/081.webp",
+    "description": "Ako algoritmy sociálnych sietí menia jazyk, slang a spôsob online komunikácie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Algospeak%20Adam%20Aleksic"
+  },
+  {
     "id": "antimemeticka-divize",
     "title": "Antimemetická divize neexistuje",
     "author": "qntm",
@@ -36,6 +117,15 @@
     "source": "https://www.martinus.sk/search?q=Antimemetick%C3%A1%20divize%20neexistuje"
   },
   {
+    "id": "atlasova-vzpoura",
+    "title": "Atlasova vzpoura",
+    "author": "Ayn Rand",
+    "cover": "/covers/067.webp",
+    "description": "Rozsiahly román o individualizme, moci, tvorivosti a úlohe schopných jednotlivcov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Atlasova%20vzpoura%20Ayn%20Rand"
+  },
+  {
     "id": "az-skonci-prace",
     "title": "Až skončí práce",
     "author": "Nick Srnicek a Helen Hester",
@@ -43,6 +133,15 @@
     "description": "Ako technológie, starostlivosť a automatizácia menia predstavu o práci a voľnom čase.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=A%C5%BE%20skon%C4%8D%C3%AD%20pr%C3%A1ce"
+  },
+  {
+    "id": "bezohledni-lide",
+    "title": "Bezohlední lidé",
+    "author": "Sarah Wynn-Williams",
+    "cover": "/covers/063.webp",
+    "description": "Insiderská výpoveď o fungovaní Facebooku, jeho kultúre a globálnom vplyve.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Bezohledn%C3%AD%20lid%C3%A9%20Sarah%20Wynn-Williams"
   },
   {
     "id": "cesta-do-mozgu-a-spat",
@@ -81,6 +180,33 @@
     "source": "https://www.martinus.sk/3736605-casozber/kniha"
   },
   {
+    "id": "digitalni-minimalismus",
+    "title": "Digitální minimalismus",
+    "author": "Cal Newport",
+    "cover": "/covers/121.webp",
+    "description": "Ako si zvoliť technológie zámerne a získať späť pozornosť, pokoj a čas.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Digit%C3%A1ln%C3%AD%20minimalismus%20Cal%20Newport"
+  },
+  {
+    "id": "dnes-trochu-umreme",
+    "title": "Dnes trochu umřeme",
+    "author": "Richard Askwith",
+    "cover": "/covers/090.webp",
+    "description": "Životný príbeh Emila Zátopka, jeho športových triumfov, odvahy a pádu.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Dnes%20trochu%20um%C5%99eme%20Richard%20Askwith"
+  },
+  {
+    "id": "dvojnice",
+    "title": "Dvojnice",
+    "author": "Naomi Klein",
+    "cover": "/covers/119.webp",
+    "description": "Osobná cesta zrkadlovým svetom konšpirácií, polarizácie a digitálnej identity.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Dvojnice%20Naomi%20Klein"
+  },
+  {
     "id": "ekonomicke-instinkty",
     "title": "Ekonomické instinkty",
     "author": "Jan Urban",
@@ -88,6 +214,15 @@
     "description": "Behaviorálna ekonómia o tom, prečo sa často rozhodujeme proti vlastnému záujmu.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Ekonomick%C3%A9%20instinkty%20Jan%20Urban"
+  },
+  {
+    "id": "everest-s-rucenim-obmedzenym",
+    "title": "Everest s ručením obmedzeným",
+    "author": "Will Cockrell",
+    "cover": "/covers/084.webp",
+    "description": "Dejiny komercializácie Everestu, dobrodružstva, rizika a vysokohorskej turistiky.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Everest%20s%20ru%C4%8Den%C3%ADm%20obmedzen%C3%BDm%20Will%20Cockrell"
   },
   {
     "id": "existencialny-manazment",
@@ -99,6 +234,33 @@
     "source": "https://www.martinus.sk/search?q=Existenci%C3%A1lny%20mana%C5%BEment"
   },
   {
+    "id": "heureka",
+    "title": "Heuréka!",
+    "author": "Tomáš Braverman",
+    "cover": "/covers/097.webp",
+    "description": "Príbeh budovania Heuréky a lekcie o raste, vedení a škálovaní technologickej firmy.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Heur%C3%A9ka%20Tom%C3%A1%C5%A1%20Braverman"
+  },
+  {
+    "id": "high-conflict",
+    "title": "High Conflict",
+    "author": "Amanda Ripley",
+    "cover": "/covers/143.webp",
+    "description": "Prečo sa konflikty menia na pasce a ako sa z nich jednotlivci aj skupiny dostávajú.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=High%20Conflict%20Amanda%20Ripley"
+  },
+  {
+    "id": "hlasy-priepasti",
+    "title": "Hlasy priepasti",
+    "author": "Dušan Valent",
+    "cover": "/covers/085.webp",
+    "description": "Výprava do hlbín poznania, prírody a tajomstiev, ktoré preverujú ľudskú zvedavosť.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Hlasy%20priepasti%20Du%C5%A1an%20Valent"
+  },
+  {
     "id": "how-to-listen",
     "title": "How to Listen",
     "author": "Oscar Trimboli",
@@ -106,6 +268,42 @@
     "description": "Praktické techniky počúvania, ktoré zlepšujú porozumenie aj náročné rozhovory.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=How%20to%20Listen%20Oscar%20Trimboli"
+  },
+  {
+    "id": "how-to-think-about-ai",
+    "title": "How to Think About AI",
+    "author": "Richard Susskind",
+    "cover": "/covers/104.webp",
+    "description": "Rámec na realistické premýšľanie o možnostiach, rizikách a regulácii AI.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=How%20to%20Think%20About%20AI%20Richard%20Susskind"
+  },
+  {
+    "id": "if-anyone-builds-it",
+    "title": "If Anyone Builds It, Everyone Dies",
+    "author": "Eliezer Yudkowsky a Nate Soares",
+    "cover": "/covers/044.webp",
+    "description": "Argument proti vývoju superinteligentnej AI bez spoľahlivej kontroly jej cieľov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=If%20Anyone%20Builds%20It%20Everyone%20Dies"
+  },
+  {
+    "id": "imunomysel",
+    "title": "Imunomysel",
+    "author": "Monty Lyman",
+    "cover": "/covers/118.webp",
+    "description": "Ako spolu komunikujú imunitný systém, mozog a psychika a čo to znamená pre zdravie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Imunomysel%20Monty%20Lyman"
+  },
+  {
+    "id": "jak-se-uspesne-ucit",
+    "title": "Jak se úspěšně učit",
+    "author": "Eberhard Hofmann a Monika Löhle",
+    "cover": "/covers/113.webp",
+    "description": "Overené stratégie učenia, plánovania, opakovania a práce s motiváciou.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Jak%20se%20%C3%BAsp%C4%9B%C5%A1n%C4%9B%20u%C4%8Dit%20Hofmann%20L%C3%B6hle"
   },
   {
     "id": "kaputt",
@@ -126,6 +324,33 @@
     "source": "https://www.martinus.sk/search?q=Karl%20Popper%20a%20v%C4%9Bdeck%C3%A1%20racionalita"
   },
   {
+    "id": "kolko-stoji-vase-stastie",
+    "title": "Koľko stojí vaše šťastie?",
+    "author": "Juraj Hrbatý, Ján Tonka a Simon Pekar",
+    "cover": "/covers/096.webp",
+    "description": "Desať krokov k zdravšiemu vzťahu k peniazom, bohatstvu a osobnej spokojnosti.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Ko%C4%BEko%20stoj%C3%AD%20va%C5%A1e%20%C5%A1%C5%A5astie"
+  },
+  {
+    "id": "konec-skolni-nudy",
+    "title": "Konec školní nudy",
+    "author": "Spencer Kagan",
+    "cover": "/covers/070.webp",
+    "description": "Didaktické metódy, ktoré zapájajú žiakov a premieňajú pasívnu výučbu na spoluprácu.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Konec%20%C5%A1koln%C3%AD%20nudy%20Spencer%20Kagan"
+  },
+  {
+    "id": "krok-za-krokem-zdravejsi-mozek",
+    "title": "Krok za krokem ke zdravějšímu mozku",
+    "author": "Daniel Amen",
+    "cover": "/covers/135.webp",
+    "description": "Konkrétne kroky na podporu mozgu prostredníctvom spánku, pohybu, stravy a návykov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Krok%20za%20krokem%20ke%20zdrav%C4%9Bj%C5%A1%C3%ADmu%20mozku%20Daniel%20Amen"
+  },
+  {
     "id": "misinformation",
     "title": "Misinformation",
     "author": "Sander van der Linden",
@@ -133,6 +358,24 @@
     "description": "Ako rozpoznávať manipulatívny obsah a odolávať dezinformáciám v digitálnom veku.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Misinformation%20Sander%20van%20der%20Linden"
+  },
+  {
+    "id": "muj-kousek-himalaje",
+    "title": "Můj kousek Himálaje",
+    "author": "Štěpánka Címlová",
+    "cover": "/covers/134.webp",
+    "description": "Osobný príbeh horskej výzvy, vytrvalosti a hľadania vlastných hraníc.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=M%C5%AFj%20kousek%20Him%C3%A1laje%20%C5%A0t%C4%9Bp%C3%A1nka%20C%C3%ADmlov%C3%A1"
+  },
+  {
+    "id": "muz-ktery-rozdava-stesti",
+    "title": "Muž, který rozdává štěstí",
+    "author": "Biyon Kattilathu",
+    "cover": "/covers/110.webp",
+    "description": "Inšpiratívne príbehy o radosti, vzťahoch a malých rozhodnutiach, ktoré menia život.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Mu%C5%BE%20kter%C3%BD%20rozd%C3%A1v%C3%A1%20%C5%A1t%C4%9Bst%C3%AD%20Biyon%20Kattilathu"
   },
   {
     "id": "nastupci",
@@ -144,6 +387,51 @@
     "source": "https://www.martinus.sk/search?q=N%C3%A1stupci%20Leo%C5%A1%20Ky%C5%A1a"
   },
   {
+    "id": "nase-tela",
+    "title": "Naše těla",
+    "author": "Juan Luis Arsuaga",
+    "cover": "/covers/088.webp",
+    "description": "Sedem miliónov rokov evolúcie ľudského tela podaných zrozumiteľne a pútavo.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Na%C5%A1e%20t%C4%9Bla%20Juan%20Luis%20Arsuaga"
+  },
+  {
+    "id": "nazi-v-ai-dobe",
+    "title": "Nazí v AI době",
+    "author": "Lukáš Sedlák",
+    "cover": "/covers/066.webp",
+    "description": "O tom, čo umelá inteligencia odhaľuje o ľuďoch, práci a súčasnej spoločnosti.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Naz%C3%AD%20v%20AI%20dob%C4%9B%20Luk%C3%A1%C5%A1%20Sedl%C3%A1k"
+  },
+  {
+    "id": "nehovor-hmm",
+    "title": "Nehovor hmm",
+    "author": "Michael Chad Hoeppner",
+    "cover": "/covers/061.webp",
+    "description": "Rýchla metóda na jasnejšie, sebavedomejšie a účinnejšie vyjadrovanie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Nehovor%20hmm%20Michael%20Chad%20Hoeppner"
+  },
+  {
+    "id": "nenasilna-komunikace-zakladni-myslenky",
+    "title": "Nenásilná komunikace – základní myšlenky",
+    "author": "Marshall B. Rosenberg",
+    "cover": "/covers/058.webp",
+    "description": "Krátke texty o empatii, potrebách a rozhovoroch bez nátlaku či obviňovania.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Nen%C3%A1siln%C3%A1%20komunikace%20z%C3%A1kladn%C3%AD%20my%C5%A1lenky"
+  },
+  {
+    "id": "ohen-nad-hlubinou",
+    "title": "Oheň nad hlubinou",
+    "author": "Vernor Vinge",
+    "cover": "/covers/130.webp",
+    "description": "Veľkolepé space opera sci-fi o superinteligencii, civilizáciách a boji o prežitie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Ohe%C5%88%20nad%20hlubinou%20Vernor%20Vinge"
+  },
+  {
     "id": "pedagogika-utlacovanych",
     "title": "Pedagogika utlačovaných",
     "author": "Paulo Freire",
@@ -151,6 +439,33 @@
     "description": "Klasika kritickej pedagogiky o vzdelávaní ako dialógu, slobode a zmene spoločnosti.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Pedagogika%20utla%C4%8Dovan%C3%BDch"
+  },
+  {
+    "id": "pocuvanie-ako-superschopnost",
+    "title": "Počúvanie ako superschopnosť",
+    "author": "Patrick King",
+    "cover": "/covers/136.webp",
+    "description": "Techniky aktívneho počúvania pre lepšie vzťahy, rozhovory a porozumenie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Po%C4%8D%C3%BAvanie%20ako%20superschopnos%C5%A5%20Patrick%20King"
+  },
+  {
+    "id": "polymath",
+    "title": "Polymath",
+    "author": "Peter Hollins",
+    "cover": "/covers/046.webp",
+    "description": "Návod, ako rozvíjať viacero schopností a prepájať poznatky z rôznych oblastí.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Polymath%20Peter%20Hollins"
+  },
+  {
+    "id": "post-pravdovy-svet",
+    "title": "Post-pravdový svět",
+    "author": "Ken Wilber",
+    "cover": "/covers/115.webp",
+    "description": "Analýza polarizácie, kultúrnych konfliktov a cesty z postpravdivého chaosu.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Post-pravdov%C3%BD%20sv%C4%9Bt%20Ken%20Wilber"
   },
   {
     "id": "prace-na-hovno",
@@ -171,6 +486,33 @@
     "source": "https://www.martinus.sk/search?q=Pre%C4%8Do%20si%20nerozumieme"
   },
   {
+    "id": "prechadzka-v-parku",
+    "title": "Prechádzka v parku",
+    "author": "Kevin Fedarko",
+    "cover": "/covers/137.webp",
+    "description": "Dobrodružná pešia cesta naprieč Grand Canyonom a príbeh krajiny pod tlakom.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Prech%C3%A1dzka%20v%20parku%20Kevin%20Fedarko"
+  },
+  {
+    "id": "proc-staty-selhavaji",
+    "title": "Proč státy selhávají",
+    "author": "Daron Acemoglu a James A. Robinson",
+    "cover": "/covers/055.webp",
+    "description": "Prečo inkluzívne inštitúcie prinášajú prosperitu a extraktívne systémy úpadok.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Pro%C4%8D%20st%C3%A1ty%20selh%C3%A1vaj%C3%AD"
+  },
+  {
+    "id": "prumysl-lzi",
+    "title": "Průmysl lži",
+    "author": "Alexandra Alvarová",
+    "cover": "/covers/078.webp",
+    "description": "Ako propaganda, manipulácia a digitálne platformy formujú verejnú mienku.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Pr%C5%AFmysl%20l%C5%BEi%20Alexandra%20Alvarov%C3%A1"
+  },
+  {
     "id": "pruvodce-psychonauta",
     "title": "Průvodce psychonauta",
     "author": "James Fadiman",
@@ -178,6 +520,24 @@
     "description": "Praktický a historický pohľad na psychedeliká, ich výskum a zodpovedné používanie.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Pr%C5%AFvodce%20psychonauta"
+  },
+  {
+    "id": "pretizeny",
+    "title": "Přetíženy",
+    "author": "Kateřina Trávníčková a Martina Mašková",
+    "cover": "/covers/073.webp",
+    "description": "O neviditeľnej mentálnej záťaži žien, vyčerpaní a spravodlivejšom delení povinností.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=P%C5%99et%C3%AD%C5%BEeny%20Tr%C3%A1vn%C3%AD%C4%8Dkov%C3%A1%20Ma%C5%A1kov%C3%A1"
+  },
+  {
+    "id": "prilis-mnoho-a-nikdy-dost",
+    "title": "Příliš mnoho a nikdy dost",
+    "author": "Mary L. Trump",
+    "cover": "/covers/048.webp",
+    "description": "Rodinná výpoveď o prostredí, ktoré formovalo Donalda Trumpa a jeho vzťah k moci.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=P%C5%99%C3%ADli%C5%A1%20mnoho%20a%20nikdy%20dost%20Mary%20Trump"
   },
   {
     "id": "priprav-svuj-mozek",
@@ -198,6 +558,24 @@
     "source": "https://www.martinus.sk/search?q=Revolucion%C3%A1r%20jednej%20slamky"
   },
   {
+    "id": "samko-tale",
+    "title": "Samko Tále: Kniha o cintoríne",
+    "author": "Daniela Kapitáňová",
+    "cover": "/covers/086.webp",
+    "description": "Tragikomický monológ malomestského rozprávača a satira na slovenskú spoločnosť.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Samko%20T%C3%A1le%20Kniha%20o%20cintor%C3%ADne"
+  },
+  {
+    "id": "scaling-up",
+    "title": "Scaling Up",
+    "author": "Verne Harnish",
+    "cover": "/covers/053.webp",
+    "description": "Systém rastu firmy cez ľudí, stratégiu, realizáciu a zdravé riadenie financií.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Scaling%20Up%20Verne%20Harnish"
+  },
+  {
     "id": "sedliacky",
     "title": "Sedliačky",
     "author": "Joanna Kuciel-Frydryszak",
@@ -205,6 +583,24 @@
     "description": "Silná reportáž o živote vidieckych žien, ich práci, chudobe a odolnosti.",
     "rating": 4.6,
     "source": "https://www.martinus.sk/3596167-sedliacky/kniha"
+  },
+  {
+    "id": "sila-zlozvyku",
+    "title": "Sila zlozvyku",
+    "author": "Nicklas Brendborg",
+    "cover": "/covers/049.webp",
+    "description": "Vedecký pohľad na návykové správanie a mechanizmy, ktoré riadia naše rozhodnutia.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Sila%20zlozvyku%20Nicklas%20Brendborg"
+  },
+  {
+    "id": "skutocna-skryta-pravda-o-svete",
+    "title": "Skutočná skrytá pravda o svete",
+    "author": "David Graeber",
+    "cover": "/covers/079.webp",
+    "description": "Výber esejí o moci, práci, byrokracii a alternatívach k zaužívanému poriadku.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Skuto%C4%8Dn%C3%A1%20skryt%C3%A1%20pravda%20o%20svete%20David%20Graeber"
   },
   {
     "id": "slepe-miesta-mediciny",
@@ -225,6 +621,69 @@
     "source": "https://www.martinus.sk/search?q=Soci%C3%A1lne%20siete%20musia%20by%C5%A5%20zni%C4%8Den%C3%A9"
   },
   {
+    "id": "stan-sa-neznicitelnym",
+    "title": "Staň sa nezničiteľným",
+    "author": "Evy Poumpouras",
+    "cover": "/covers/052.webp",
+    "description": "Skúsenosti bývalej agentky o odolnosti, bezpečí a zvládaní náročných situácií.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Sta%C5%88%20sa%20nezni%C4%8Dite%C4%BEn%C3%BDm%20Evy%20Poumpouras"
+  },
+  {
+    "id": "strata-kontroly",
+    "title": "Strata kontroly",
+    "author": "Eric Schlosser",
+    "cover": "/covers/111.webp",
+    "description": "Investigatívny pohľad na jadrové zbrane, bezpečnostné zlyhania a riziko katastrofy.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Strata%20kontroly%20Eric%20Schlosser"
+  },
+  {
+    "id": "svet-na-predaj",
+    "title": "Svet na predaj",
+    "author": "Javier Blas a Jack Farchy",
+    "cover": "/covers/108.webp",
+    "description": "Príbeh obchodníkov s komoditami, ktorí získali obrovský vplyv na svetovú ekonomiku.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Svet%20na%20predaj%20Javier%20Blas%20Jack%20Farchy"
+  },
+  {
+    "id": "svetovi-intelektualove",
+    "title": "Světoví intelektuálové",
+    "author": "Redakce týdeníku Respekt",
+    "cover": "/covers/094.webp",
+    "description": "Sprievodca osobnosťami a myšlienkami, ktoré pomáhajú chápať nepokojnú dobu.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Sv%C4%9Btov%C3%AD%20intelektu%C3%A1lov%C3%A9%20Respekt"
+  },
+  {
+    "id": "takticke-mysleni",
+    "title": "Taktické myšlení",
+    "author": "Charles Phillips",
+    "cover": "/covers/141.webp",
+    "description": "Súbor úloh na precvičenie logiky, plánovania, stratégie a riešenia problémov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Taktick%C3%A9%20my%C5%A1len%C3%AD%20Charles%20Phillips"
+  },
+  {
+    "id": "teoria-zahalcivej-triedy",
+    "title": "Teória zahálčivej triedy",
+    "author": "Thorstein Veblen",
+    "cover": "/covers/076.webp",
+    "description": "Klasická kritika okázalej spotreby, spoločenského statusu a ekonomických elít.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Te%C3%B3ria%20zah%C3%A1l%C4%8Divej%20triedy%20Thorstein%20Veblen"
+  },
+  {
+    "id": "teorie-her",
+    "title": "Teorie her",
+    "author": "Ken Binmore",
+    "cover": "/covers/126.webp",
+    "description": "Stručný úvod do strategického rozhodovania, spolupráce, konfliktu a motivácií.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Teorie%20her%20Ken%20Binmore"
+  },
+  {
     "id": "beginning-of-infinity",
     "title": "The Beginning of Infinity",
     "author": "David Deutsch",
@@ -232,6 +691,15 @@
     "description": "O sile dobrých vysvetlení, pokroku a poznania, ktoré nemá prirodzený koniec.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=The%20Beginning%20of%20Infinity"
+  },
+  {
+    "id": "brain-code",
+    "title": "The Brain Code",
+    "author": "Yossi Chalamish",
+    "cover": "/covers/041.webp",
+    "description": "Praktický pohľad na fungovanie mozgu, učenie, sústredenie a duševnú výkonnosť.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=The%20Brain%20Code%20Yossi%20Chalamish"
   },
   {
     "id": "octopus-organization",
@@ -243,6 +711,24 @@
     "source": "https://www.martinus.sk/search?q=The%20Octopus%20Organization"
   },
   {
+    "id": "science-rapid-skill-acquisition",
+    "title": "The Science of Rapid Skill Acquisition",
+    "author": "Peter Hollins",
+    "cover": "/covers/045.webp",
+    "description": "Metódy rýchlejšieho osvojovania zručností, tréningu a zámerného precvičovania.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=The%20Science%20of%20Rapid%20Skill%20Acquisition"
+  },
+  {
+    "id": "think-like-super-gm",
+    "title": "Think Like a Super-GM",
+    "author": "Michael Adams a Philip Hurtado",
+    "cover": "/covers/124.webp",
+    "description": "Šachové pozície a vysvetlenia, ktoré odhaľujú spôsob myslenia veľmajstrov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Think%20Like%20a%20Super-GM"
+  },
+  {
     "id": "thinking-in-systems",
     "title": "Thinking in Systems",
     "author": "Donella H. Meadows",
@@ -250,6 +736,15 @@
     "description": "Úvod do systémového myslenia, spätných väzieb a nečakaných dôsledkov rozhodnutí.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Thinking%20in%20Systems"
+  },
+  {
+    "id": "trenovani-pameti",
+    "title": "Trénování paměti a poznávacích schopností",
+    "author": "Marek Preiss a Jaro Křivohlavý",
+    "cover": "/covers/112.webp",
+    "description": "Cvičenia a postupy na podporu pamäti, pozornosti a ďalších kognitívnych schopností.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Tr%C3%A9nov%C3%A1n%C3%AD%20pam%C4%9Bti%20a%20pozn%C3%A1vac%C3%ADch%20schopnost%C3%AD"
   },
   {
     "id": "ubavit-se-k-smrti",
@@ -261,6 +756,51 @@
     "source": "https://www.martinus.sk/search?q=Ubavit%20se%20k%20smrti"
   },
   {
+    "id": "umeni-neuspechu",
+    "title": "Umění neúspěchu",
+    "author": "Josef Hynek a Tomáš Studeník",
+    "cover": "/covers/133.webp",
+    "description": "Príbehy vedeckých omylov a zlyhaní, z ktorých vyrástli dôležité objavy.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Um%C4%9Bn%C3%AD%20ne%C3%BAsp%C4%9Bchu%20Hynek%20Studen%C3%ADk"
+  },
+  {
+    "id": "umeni-skoncit",
+    "title": "Umění skončit",
+    "author": "Annie Duke",
+    "cover": "/covers/051.webp",
+    "description": "Ako včas opustiť nefungujúci plán a robiť lepšie rozhodnutia bez pocitu zlyhania.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Um%C4%9Bn%C3%AD%20skon%C4%8Dit%20Annie%20Duke"
+  },
+  {
+    "id": "umeni-vnimat-problemy",
+    "title": "Umění vnímat problémy pro děti a rodiče",
+    "author": "Michael Třeštík",
+    "cover": "/covers/064.webp",
+    "description": "Podnety pre spoločné premýšľanie rodičov a detí o zložitých témach sveta.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Um%C4%9Bn%C3%AD%20vn%C3%ADmat%20probl%C3%A9my%20pro%20d%C4%9Bti%20a%20rodi%C4%8De"
+  },
+  {
+    "id": "upracte-si-svoj-zivot",
+    "title": "Uprac si svoj život",
+    "author": "Tyler Moore",
+    "cover": "/covers/098.webp",
+    "description": "Jemný systém organizácie domácnosti a návykov bez perfekcionizmu a preťaženia.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Uprac%20si%20svoj%20%C5%BEivot%20Tyler%20Moore"
+  },
+  {
+    "id": "uz-zadne-drama",
+    "title": "Už žádné drama",
+    "author": "Nedra Glover Tawwab",
+    "cover": "/covers/132.webp",
+    "description": "Ako rozpoznať nezdravé rodinné vzorce, nastavovať hranice a chrániť svoj pokoj.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=U%C5%BE%20%C5%BE%C3%A1dn%C3%A9%20drama%20Nedra%20Glover%20Tawwab"
+  },
+  {
     "id": "vek-kapitalismu-dohledu",
     "title": "Věk kapitalismu dohledu",
     "author": "Shoshana Zuboff",
@@ -268,6 +808,15 @@
     "description": "Zásadná analýza biznisu, ktorý premieňa ľudské správanie na zdroj dát a zisku.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=V%C4%9Bk%20kapitalismu%20dohledu"
+  },
+  {
+    "id": "vek-revolucii",
+    "title": "Vek revolúcií",
+    "author": "Fareed Zakaria",
+    "cover": "/covers/142.webp",
+    "description": "Ako technologické, ekonomické a politické revolúcie menili svet a formujú dnešok.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Vek%20revol%C3%BAci%C3%AD%20Fareed%20Zakaria"
   },
   {
     "id": "velke-ekonomicke-dejiny",
@@ -288,6 +837,15 @@
     "source": "https://www.martinus.sk/search?q=V%C3%BDnimo%C4%8Dn%C3%BD%20stav%20Martin%20M.%20%C5%A0ime%C4%8Dka"
   },
   {
+    "id": "winning-war-in-your-mind",
+    "title": "Winning the War in Your Mind",
+    "author": "Craig Groeschel",
+    "cover": "/covers/042.webp",
+    "description": "Ako rozpoznať škodlivé myšlienkové vzorce a nahradiť ich zdravšími návykmi.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Winning%20the%20War%20in%20Your%20Mind%20Craig%20Groeschel"
+  },
+  {
     "id": "zbohom-globalizacia",
     "title": "Zbohom, globalizácia",
     "author": "Peter Zeihan",
@@ -295,6 +853,24 @@
     "description": "Geopolitický pohľad na svet, v ktorom sa globálne dodávateľské reťazce rozpadajú.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Zbohom%20globaliz%C3%A1cia"
+  },
+  {
+    "id": "zesilet-v-divocine",
+    "title": "Zesílet v divočině",
+    "author": "Aleš Palán",
+    "cover": "/covers/072.webp",
+    "description": "Rozhovory a príbehy ľudí, ktorým samota a príroda pomohli zmeniť život.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Zes%C3%ADlet%20v%20divo%C4%8Din%C4%9B%20Ale%C5%A1%20Pal%C3%A1n"
+  },
+  {
+    "id": "zmente-otazky-zmente-zivot",
+    "title": "Změňte otázky, změňte svůj život",
+    "author": "Marilee Adams",
+    "cover": "/covers/057.webp",
+    "description": "Ako kvalita otázok ovplyvňuje naše vzťahy, rozhodovanie aj schopnosť učiť sa.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Zm%C4%9B%C5%88te%20ot%C3%A1zky%20zm%C4%9B%C5%88te%20sv%C5%AFj%20%C5%BEivot%20Marilee%20Adams"
   },
   {
     "id": "zrkadlo",
@@ -313,5 +889,14 @@
     "description": "Praktický sprievodca chudnutím bez zázračných diét, mýtov a jojo efektu.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=%C5%BDiadne%20kecy%20Ben%20Carpenter"
+  },
+  {
+    "id": "zivot-3-0",
+    "title": "Život 3.0",
+    "author": "Max Tegmark",
+    "cover": "/covers/083.webp",
+    "description": "Úvaha o inteligencii, vedomí a možnostiach ľudstva vo veku umelej inteligencie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=%C5%BDivot%203.0%20Max%20Tegmark"
   }
 ]
