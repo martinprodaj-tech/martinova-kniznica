@@ -342,6 +342,15 @@
     "source": "https://www.martinus.sk/search?q=Konec%20%C5%A1koln%C3%AD%20nudy%20Spencer%20Kagan"
   },
   {
+    "id": "kriticke-mysleni-jiri-sedy",
+    "title": "Kritické myšlení",
+    "author": "Jiří Šedý",
+    "cover": "/covers/145.webp",
+    "description": "Praktický pohľad na nezávislé posudzovanie problémov, kognitívne skreslenia a každodenné rozhodovanie.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Kritick%C3%A9%20my%C5%A1len%C3%AD%20Ji%C5%99%C3%AD%20%C5%A0ed%C3%BD"
+  },
+  {
     "id": "krok-za-krokem-zdravejsi-mozek",
     "title": "Krok za krokem ke zdravějšímu mozku",
     "author": "Daniel Amen",
@@ -547,6 +556,15 @@
     "description": "Ako si v čase AI pestovať sústredenie, učenie a mentálnu odolnosť.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=P%C5%99iprav%20sv%C5%AFj%20mozek%20na%20%C3%A9ru%20AI"
+  },
+  {
+    "id": "reportaz-o-turistickom-priemysle",
+    "title": "Reportáž o turistickom priemysle",
+    "author": "Jennie Dielemans",
+    "cover": "/covers/146.webp",
+    "description": "Investigatívna reportáž o tom, ako cestovný ruch pretvára krajinu, komunity a predstavu o nedotknutom svete.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Report%C3%A1%C5%BE%20o%20turistickom%20priemysle%20Jennie%20Dielemans"
   },
   {
     "id": "revolucionar-jednej-slamky",
