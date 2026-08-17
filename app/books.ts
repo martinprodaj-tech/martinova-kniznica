@@ -912,4 +912,22 @@ export const books: Book[] = [
     rating: null,
     source: martinusSearch("80 na každý deň Richard Koch"),
   },
+  {
+    id: "kriticke-mysleni-jiri-sedy",
+    title: "Kritické myšlení",
+    author: "Jiří Šedý",
+    cover: "/covers/145.webp",
+    description: "Praktický pohľad na nezávislé posudzovanie problémov, kognitívne skreslenia a každodenné rozhodovanie.",
+    rating: null,
+    source: martinusSearch("Kritické myšlení Jiří Šedý"),
+  },
+  {
+    id: "reportaz-o-turistickom-priemysle",
+    title: "Reportáž o turistickom priemysle",
+    author: "Jennie Dielemans",
+    cover: "/covers/146.webp",
+    description: "Investigatívna reportáž o tom, ako cestovný ruch pretvára krajinu, komunity a predstavu o nedotknutom svete.",
+    rating: null,
+    source: martinusSearch("Reportáž o turistickom priemysle Jennie Dielemans"),
+  },
 ].sort((a, b) => a.title.localeCompare(b.title, "sk"));
