@@ -108,6 +108,15 @@
     "source": "https://www.martinus.sk/search?q=Algospeak%20Adam%20Aleksic"
   },
   {
+    "id": "anatomie-rozhodovani",
+    "title": "Anatomie rozhodování",
+    "author": "Richard Shotton",
+    "cover": "/covers/149.webp",
+    "description": "Zrozumiteľný pohľad na psychologické skreslenia a sily, ktoré ovplyvňujú každodenné aj nákupné rozhodnutia.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Anatomie%20rozhodov%C3%A1n%C3%AD%20Richard%20Shotton"
+  },
+  {
     "id": "antimemeticka-divize",
     "title": "Antimemetická divize neexistuje",
     "author": "qntm",
@@ -387,6 +396,15 @@
     "source": "https://www.martinus.sk/search?q=Mu%C5%BE%20kter%C3%BD%20rozd%C3%A1v%C3%A1%20%C5%A1t%C4%9Bst%C3%AD%20Biyon%20Kattilathu"
   },
   {
+    "id": "na-ctyrech",
+    "title": "Na čtyřech",
+    "author": "Miranda July",
+    "cover": "/covers/148.webp",
+    "description": "Vtipný a odvážny román o štyridsaťpäťročnej umelkyni, ktorá počas cesty prehodnotí slobodu, intimitu aj rodinný život.",
+    "rating": null,
+    "source": "https://www.martinus.sk/2891509-all-fours/kniha"
+  },
+  {
     "id": "nastupci",
     "title": "Nástupci",
     "author": "Leoš Kyša",
@@ -637,6 +655,24 @@
     "description": "Ako algoritmy škodia jednotlivcom aj spoločnosti a čo sa s tým ešte dá urobiť.",
     "rating": 4.7,
     "source": "https://www.martinus.sk/search?q=Soci%C3%A1lne%20siete%20musia%20by%C5%A5%20zni%C4%8Den%C3%A9"
+  },
+  {
+    "id": "solving-problems-with-design-thinking",
+    "title": "Solving Problems with Design Thinking",
+    "author": "Jeanne Liedtka, Andrew King a Kevin Bennett",
+    "cover": "/covers/147.webp",
+    "description": "Desať prípadových štúdií ukazuje, ako organizácie využívajú dizajnové myslenie na riešenie praktických problémov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Solving%20Problems%20with%20Design%20Thinking%20Liedtka%20King%20Bennett"
+  },
+  {
+    "id": "spin-diktatori",
+    "title": "Spin diktátoři",
+    "author": "Sergej Gurijev a Daniel Treisman",
+    "cover": "/covers/150.webp",
+    "description": "Analýza moderných autoritárov, ktorí si moc udržiavajú manipuláciou informácií a predstieraním demokratických postupov.",
+    "rating": null,
+    "source": "https://www.martinus.sk/3703169-spin-diktatori/e-kniha"
   },
   {
     "id": "stan-sa-neznicitelnym",
