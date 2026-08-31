@@ -369,6 +369,15 @@
     "source": "https://www.martinus.sk/search?q=Krok%20za%20krokem%20ke%20zdrav%C4%9Bj%C5%A1%C3%ADmu%20mozku%20Daniel%20Amen"
   },
   {
+    "id": "mene-veci-mene-stresu",
+    "title": "Méně věcí, méně stresu",
+    "author": "Adina Markowicz",
+    "cover": "/covers/151.webp",
+    "description": "Štyridsať praktických cvičení na upratanie domácnosti, hlavy aj vzťahov a vytvorenie pokojnejšieho života.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=M%C3%A9n%C4%9B%20v%C4%9Bc%C3%AD%2C%20m%C3%A9n%C4%9B%20stresu%20Adina%20Markowicz"
+  },
+  {
     "id": "misinformation",
     "title": "Misinformation",
     "author": "Sander van der Linden",
@@ -772,6 +781,15 @@
     "description": "Metódy rýchlejšieho osvojovania zručností, tréningu a zámerného precvičovania.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=The%20Science%20of%20Rapid%20Skill%20Acquisition"
+  },
+  {
+    "id": "the-unaccountability-machine",
+    "title": "The Unaccountability Machine",
+    "author": "Dan Davies",
+    "cover": "/covers/152.webp",
+    "description": "Ako veľké organizácie a systémy rozptyľujú zodpovednosť a opakovane vytvárajú rozhodnutia, ktoré nikto nechcel.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=The%20Unaccountability%20Machine%20Dan%20Davies"
   },
   {
     "id": "think-like-super-gm",

@@ -966,4 +966,22 @@ export const books: Book[] = [
     rating: null,
     source: "https://www.martinus.sk/3703169-spin-diktatori/e-kniha",
   },
+  {
+    id: "mene-veci-mene-stresu",
+    title: "Méně věcí, méně stresu",
+    author: "Adina Markowicz",
+    cover: "/covers/151.webp",
+    description: "Štyridsať praktických cvičení na upratanie domácnosti, hlavy aj vzťahov a vytvorenie pokojnejšieho života.",
+    rating: null,
+    source: martinusSearch("Méně věcí, méně stresu Adina Markowicz"),
+  },
+  {
+    id: "the-unaccountability-machine",
+    title: "The Unaccountability Machine",
+    author: "Dan Davies",
+    cover: "/covers/152.webp",
+    description: "Ako veľké organizácie a systémy rozptyľujú zodpovednosť a opakovane vytvárajú rozhodnutia, ktoré nikto nechcel.",
+    rating: null,
+    source: martinusSearch("The Unaccountability Machine Dan Davies"),
+  },
 ].sort((a, b) => a.title.localeCompare(b.title, "sk"));
