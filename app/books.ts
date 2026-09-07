@@ -1020,4 +1020,8 @@ export const books: Book[] = [
     rating: null,
     source: martinusSearch("Umenie míňať peniaze Morgan Housel"),
   },
-].sort((a, b) => a.title.localeCompare(b.title, "sk"));
+].sort((a, b) => {
+  const newest = Number(b.cover.match(/(\d+)\.webp$/)?.[1] ?? 0);
+  const oldest = Number(a.cover.match(/(\d+)\.webp$/)?.[1] ?? 0);
+  return newest - oldest;
+});
