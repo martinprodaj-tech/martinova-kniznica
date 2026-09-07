@@ -99,6 +99,15 @@
     "source": "https://www.martinus.sk/search?q=Ako%20vysvetli%C5%A5%20svet%20Steven%20Weinberg"
   },
   {
+    "id": "ako-zdolat-krizu",
+    "title": "Ako zdolať krízu",
+    "author": "William H. McRaven",
+    "cover": "/covers/155.webp",
+    "description": "Desať praktických lekcií, ako v kríze zachovať pokoj, komunikovať, rozhodovať sa pod tlakom a prevziať zodpovednosť.",
+    "rating": null,
+    "source": "https://www.martinus.sk/3910169-ako-zdolat-krizu/kniha"
+  },
+  {
     "id": "algospeak",
     "title": "Algospeak",
     "author": "Adam Aleksic",
@@ -378,6 +387,15 @@
     "source": "https://www.martinus.sk/search?q=M%C3%A9n%C4%9B%20v%C4%9Bc%C3%AD%2C%20m%C3%A9n%C4%9B%20stresu%20Adina%20Markowicz"
   },
   {
+    "id": "miluj-sveho-teenagera",
+    "title": "Miluj svého teenagera",
+    "author": "Dr. Ann-Louise Lockhart",
+    "cover": "/covers/154.webp",
+    "description": "Praktický sprievodca pre rodičov, ako porozumieť dospievajúcim, zvládať konflikty a budovať dôverný vzťah.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Miluj%20sv%C3%A9ho%20teenagera%20Ann-Louise%20Lockhart"
+  },
+  {
     "id": "misinformation",
     "title": "Misinformation",
     "author": "Sander van der Linden",
@@ -457,6 +475,15 @@
     "description": "Krátke texty o empatii, potrebách a rozhovoroch bez nátlaku či obviňovania.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Nen%C3%A1siln%C3%A1%20komunikace%20z%C3%A1kladn%C3%AD%20my%C5%A1lenky"
+  },
+  {
+    "id": "nikdy-si-nedavejte-vycpat-sveho-psa",
+    "title": "Nikdy si nedávejte vycpat svého psa",
+    "author": "Alan Alda",
+    "cover": "/covers/153.webp",
+    "description": "Vtipné a otvorené spomienky Alana Aldu na život, herectvo, rodinu a hľadanie spokojnosti.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Nikdy%20si%20ned%C3%A1vejte%20vycpat%20sv%C3%A9ho%20psa%20Alan%20Alda"
   },
   {
     "id": "ohen-nad-hlubinou",
@@ -853,6 +880,15 @@
     "description": "Podnety pre spoločné premýšľanie rodičov a detí o zložitých témach sveta.",
     "rating": null,
     "source": "https://www.martinus.sk/search?q=Um%C4%9Bn%C3%AD%20vn%C3%ADmat%20probl%C3%A9my%20pro%20d%C4%9Bti%20a%20rodi%C4%8De"
+  },
+  {
+    "id": "umenie-minat-peniaze",
+    "title": "Umenie míňať peniaze",
+    "author": "Morgan Housel",
+    "cover": "/covers/156.webp",
+    "description": "Ako míňať peniaze tak, aby podporovali spokojnosť, slobodu a zmysluplný život namiesto dojmu na druhých.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Umenie%20m%C3%AD%C5%88a%C5%A5%20peniaze%20Morgan%20Housel"
   },
   {
     "id": "upracte-si-svoj-zivot",

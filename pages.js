@@ -100,7 +100,7 @@ shelf.addEventListener("click", (event) => {
   render();
 });
 
-fetch("./books.json?v=108")
+fetch("./books.json?v=112")
   .then((response) => {
     if (!response.ok) throw new Error("Nepodarilo sa načítať zoznam kníh.");
     return response.json();
