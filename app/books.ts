@@ -1020,6 +1020,42 @@ export const books: Book[] = [
     rating: null,
     source: martinusSearch("Umenie míňať peniaze Morgan Housel"),
   },
+  {
+    id: "hacknute-vedomi",
+    title: "Hacknuté vědomí",
+    author: "Dave Asprey",
+    cover: "/covers/157.webp",
+    description: "Praktický sprievodca prácou s mentálnymi blokmi, stresom a návykmi, ktoré podporujú vnútorný pokoj.",
+    rating: null,
+    source: martinusSearch("Hacknuté vědomí Dave Asprey"),
+  },
+  {
+    id: "hejno-bez-ptaku",
+    title: "Hejno bez ptáků",
+    author: "Filip Doušek",
+    cover: "/covers/158.webp",
+    description: "Dvojzväzkový filozofický román o matematikovi, láske a slepých miestach západného spôsobu poznávania sveta.",
+    rating: 4.1,
+    source: "https://www.martinus.sk/458509-hejno-bez-ptaku/kniha",
+  },
+  {
+    id: "my-nezastavitelni",
+    title: "My, nezastavitelní",
+    author: "Yuval Noah Harari",
+    cover: "/covers/159.webp",
+    description: "Prístupne podaný príbeh o tom, ako ľudia ovládli oheň, vytvorili nástroje a stali sa najmocnejším druhom planéty.",
+    rating: null,
+    source: martinusSearch("My, nezastavitelní Yuval Noah Harari"),
+  },
+  {
+    id: "what-should-my-children-do",
+    title: "What Should My Children Do?",
+    author: "Daniel Susskind",
+    cover: "/covers/160.webp",
+    description: "Ako pripraviť mladých ľudí na svet umelej inteligencie bez straty schopností, ktoré zostávajú podstatné pre dobrý život.",
+    rating: null,
+    source: "https://www.martinus.sk/4020073-what-should-my-children-do/kniha",
+  },
 ].sort((a, b) => {
   const newest = Number(b.cover.match(/(\d+)\.webp$/)?.[1] ?? 0);
   const oldest = Number(a.cover.match(/(\d+)\.webp$/)?.[1] ?? 0);
