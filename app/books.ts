@@ -1056,8 +1056,44 @@ export const books: Book[] = [
     rating: null,
     source: "https://www.martinus.sk/4020073-what-should-my-children-do/kniha",
   },
+  {
+    id: "urob-to",
+    title: "Urob to!",
+    author: "Alex Budak",
+    cover: "/covers/161.jpg",
+    description: "Praktický sprievodca myslením tvorcu zmeny: ako rozpoznať príležitosť, konať a viesť pozitívnu zmenu vo svojom okolí.",
+    rating: null,
+    source: "https://www.martinus.sk/4004039-urob-to/kniha",
+  },
+  {
+    id: "jako-zabit-ptacka",
+    title: "Jako zabít ptáčka",
+    author: "Harper Lee",
+    cover: "/covers/162.jpg",
+    description: "Nadčasový román o dospievaní, predsudkoch, spravodlivosti a morálnej odvahe v americkom Juhu tridsiatych rokov.",
+    rating: 4.6,
+    source: "https://www.martinus.sk/304971-jako-zabit-ptacka/kniha",
+  },
+  {
+    id: "rodicovstvo-bez-trestov",
+    title: "Rodičovstvo bez trestov",
+    author: "Jon Fogel",
+    cover: "/covers/163.jpg",
+    description: "Vedecky podložené a praktické postupy, ako nahradiť krik a tresty pokojom, empatiou, hranicami a spoluprácou.",
+    rating: 5.0,
+    source: "https://www.martinus.sk/3708967-rodicovstvo-bez-trestov/e-kniha",
+  },
+  {
+    id: "velka-kniha-detektivek-vrazdy-ve-vlaku",
+    title: "Velká kniha detektivek: Vraždy ve vlaku",
+    author: "Arthur Conan Doyle, Agatha Christie, Georges Simenon a ďalší",
+    cover: "/covers/164.jpg",
+    description: "Darčeková zbierka dvadsiatich dvoch klasických detektívnych poviedok, ktoré spája napätie, záhady a prostredie železnice.",
+    rating: null,
+    source: "https://www.martinus.sk/4126703-velka-kniha-detektivek/kniha",
+  },
 ].sort((a, b) => {
-  const newest = Number(b.cover.match(/(\d+)\.webp$/)?.[1] ?? 0);
-  const oldest = Number(a.cover.match(/(\d+)\.webp$/)?.[1] ?? 0);
+  const newest = Number(b.cover.match(/(\d+)\.(?:webp|jpe?g|png)$/)?.[1] ?? 0);
+  const oldest = Number(a.cover.match(/(\d+)\.(?:webp|jpe?g|png)$/)?.[1] ?? 0);
   return newest - oldest;
 });
