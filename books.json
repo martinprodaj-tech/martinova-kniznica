@@ -1,5 +1,32 @@
 [
   {
+    "id": "tvoje-hlava-ti-lze",
+    "title": "Tvoje hlava ti lže",
+    "author": "Alexandra Reinwarth",
+    "cover": "/covers/168.jpg",
+    "description": "Vtipný sprievodca chybami myslenia, predsudkami a sebaklammi, ktoré nenápadne riadia naše každodenné rozhodnutia.",
+    "rating": null,
+    "source": "https://www.martinus.sk/4135039-tvoje-hlava-ti-lze/kniha"
+  },
+  {
+    "id": "nesmrtelna-planeta",
+    "title": "Nesmrteľná planéta",
+    "author": "Martin Vlachynský",
+    "cover": "/covers/167.jpg",
+    "description": "Ekonomický pohľad na environmentalizmus, klimatické obavy a dvojstoročný spor planetárnych optimistov s pesimistami.",
+    "rating": null,
+    "source": "https://www.martinus.sk/search?q=Nesmrte%C4%BEn%C3%A1%20plan%C3%A9ta%20Martin%20Vlachynsk%C3%BD"
+  },
+  {
+    "id": "tmavomodri-chlapci",
+    "title": "Tmavomodrí chlapci",
+    "author": "Barbara Zmušková",
+    "cover": "/covers/166.jpg",
+    "description": "Román o priateľstve, zraniteľnosti mužského ega a snahe porozumieť človeku, ktorého názory a činy rozdeľujú starých kamarátov.",
+    "rating": 5,
+    "source": "https://www.martinus.sk/4025521-tmavomodri-chlapci/kniha"
+  },
+  {
     "id": "velka-kniha-detektivek-vrazdy-ve-vlaku",
     "title": "Velká kniha detektivek: Vraždy ve vlaku",
     "author": "Arthur Conan Doyle, Agatha Christie, Georges Simenon a ďalší",

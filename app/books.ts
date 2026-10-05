@@ -1092,6 +1092,33 @@ export const books: Book[] = [
     rating: null,
     source: "https://www.martinus.sk/4126703-velka-kniha-detektivek/kniha",
   },
+  {
+    id: "tmavomodri-chlapci",
+    title: "Tmavomodrí chlapci",
+    author: "Barbara Zmušková",
+    cover: "/covers/166.jpg",
+    description: "Román o priateľstve, zraniteľnosti mužského ega a snahe porozumieť človeku, ktorého názory a činy rozdeľujú starých kamarátov.",
+    rating: 5.0,
+    source: "https://www.martinus.sk/4025521-tmavomodri-chlapci/kniha",
+  },
+  {
+    id: "nesmrtelna-planeta",
+    title: "Nesmrteľná planéta",
+    author: "Martin Vlachynský",
+    cover: "/covers/167.jpg",
+    description: "Ekonomický pohľad na environmentalizmus, klimatické obavy a dvojstoročný spor planetárnych optimistov s pesimistami.",
+    rating: null,
+    source: martinusSearch("Nesmrteľná planéta Martin Vlachynský"),
+  },
+  {
+    id: "tvoje-hlava-ti-lze",
+    title: "Tvoje hlava ti lže",
+    author: "Alexandra Reinwarth",
+    cover: "/covers/168.jpg",
+    description: "Vtipný sprievodca chybami myslenia, predsudkami a sebaklammi, ktoré nenápadne riadia naše každodenné rozhodnutia.",
+    rating: null,
+    source: "https://www.martinus.sk/4135039-tvoje-hlava-ti-lze/kniha",
+  },
 ].sort((a, b) => {
   const newest = Number(b.cover.match(/(\d+)\.(?:webp|jpe?g|png)$/)?.[1] ?? 0);
   const oldest = Number(a.cover.match(/(\d+)\.(?:webp|jpe?g|png)$/)?.[1] ?? 0);
