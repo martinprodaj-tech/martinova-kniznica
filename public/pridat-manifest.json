@@ -1,0 +1,10 @@
+{
+  "name": "Pridať knihu – Martinova knižnica",
+  "short_name": "Pridať knihu",
+  "start_url": "/pridat",
+  "display": "standalone",
+  "background_color": "#19100c",
+  "theme_color": "#19100c",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
+
