@@ -12,6 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
     title: "Martinova knižnica",
     description: "Osobná knižná polička s titulmi uloženými v Google Keep.",
     icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+    manifest: "/pridat-manifest.json",
     openGraph: {
       title: "Martinova knižnica",
       description: "Knihy, ktoré čakajú na prečítanie.",
@@ -33,3 +34,4 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   );
 }
+
