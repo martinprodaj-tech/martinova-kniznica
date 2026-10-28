@@ -155,9 +155,11 @@ export default function Home() {
       </section>
 
       <footer>
+        <a href="/pridat" style={{ color: "inherit", textDecoration: "none" }}>＋ Pridať knihu z mobilu</a>
         <span>Knihy z tvojho Google Keep</span>
         <span>Hodnotenia Martinus · aktualizované 30. 7. 2026</span>
       </footer>
     </main>
   );
 }
+
