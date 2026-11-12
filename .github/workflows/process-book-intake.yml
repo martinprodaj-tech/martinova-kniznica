@@ -1,0 +1,57 @@
+name: Process book intake
+
+on:
+  repository_dispatch:
+    types: [book-intake]
+
+permissions:
+  contents: write
+
+jobs:
+  append-book:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append verified intake candidate
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: |
+          python - <<'PY'
+          import json, os, re, unicodedata
+          path = "books.json"
+          with open(path, encoding="utf-8") as f:
+              data = json.load(f)
+          p = json.loads(os.environ["PAYLOAD"])
+          title = (p.get("title") or "").strip()
+          author = (p.get("author") or "").strip()
+          if not title:
+              raise SystemExit("Missing title")
+          def norm(s):
+              s = unicodedata.normalize("NFKD", s).encode("ascii","ignore").decode().lower()
+              return re.sub(r"[^a-z0-9]+"," ",s).strip()
+          key = norm(title)
+          if any(norm(str(b.get("title",""))) == key for b in data):
+              print("Duplicate title; no change")
+              raise SystemExit(0)
+          data.append({
+              "id": f"intake-{len(data)+1}",
+              "title": title,
+              "author": author or "Autor na overenie",
+              "description": (p.get("note") or "Nový kandidát z mobilného formulára; čaká na overenie.").strip(),
+              "cover": (p.get("cover") or "").strip(),
+              "martinusUrl": "",
+              "rating": None,
+              "verificationStatus": "na overenie",
+              "receivedAt": p.get("receivedAt") or ""
+          })
+          with open(path, "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+          PY
+      - name: Commit catalogue update
+        run: |
+          git config user.name "Martinova knižnica bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add books.json
+          git diff --cached --quiet || git commit -m "Pridaj kandidáta z mobilného príjmu"
+          git push
