@@ -1125,6 +1125,16 @@
     "rating": null,
     "source": "https://humanity.martinus.sk/3946775-nastupci-zapisky-ze-sveta-gerontokracie/kniha",
     "verificationStatus": "na overenie"
+  },
+  {
+    "id": "intake-126",
+    "title": "Elastic: The Power of Flexible Thinking",
+    "author": "Leonard Mlodinow",
+    "description": "Objednaná 17. 11. 2026 (Martinus, angl. originál, Penguin 2019). https://www.martinus.sk/701953-elastic/kniha",
+    "cover": "/covers/intake-20261117-194515.jpg",
+    "martinusUrl": "",
+    "rating": null,
+    "verificationStatus": "na overenie",
+    "receivedAt": "2026-11-17T18:45:14Z"
   }
 ]
-
