@@ -1136,5 +1136,16 @@
     "rating": null,
     "verificationStatus": "na overenie",
     "receivedAt": "2026-11-17T18:45:14Z"
+  },
+  {
+    "id": "intake-127",
+    "title": "Vědomí podvědomí: Jak naše podvědomí ovládá naše chování",
+    "author": "Leonard Mlodinow",
+    "description": "Český preklad knihy Subliminal (Dokořán/Argo). https://www.martinus.sk/585587-vedomi-podvedomi/kniha",
+    "cover": "/covers/intake-20261117-195242.jpg",
+    "martinusUrl": "",
+    "rating": null,
+    "verificationStatus": "na overenie",
+    "receivedAt": "2026-11-17T18:52:40Z"
   }
 ]
