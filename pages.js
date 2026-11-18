@@ -35,6 +35,25 @@ function ratingMarkup(rating) {
   return `<span class="stars" aria-label="${rating} z 5">${stars}</span><span>${rating.toFixed(1)} / 5</span>`;
 }
 
+// Najnovšie knihy hore + štítok NOVÁ 14 dní (Martin [TG] 2026-11-18: „Zmeň teda poradie.“)
+const NEW_DAYS = 14;
+function isNew(book) {
+  if (!book.receivedAt) return false;
+  const t = Date.parse(book.receivedAt);
+  return !Number.isNaN(t) && Date.now() - t < NEW_DAYS * 864e5;
+}
+function newestFirst(books) {
+  // books.json je v poradí pridania (nové na konci) → otočiť; knihy s receivedAt zoradiť podľa času
+  return books
+    .map((book, index) => ({ book, index }))
+    .sort((a, b) => {
+      const ta = Date.parse(a.book.receivedAt || "") || 0;
+      const tb = Date.parse(b.book.receivedAt || "") || 0;
+      return tb - ta || b.index - a.index;
+    })
+    .map((item) => item.book);
+}
+
 function renderBook(book) {
   const archived = state.archived.has(book.id);
   return `
@@ -43,6 +62,7 @@ function renderBook(book) {
         <img class="cover" src="${coverPath(book.cover)}" alt="Obálka knihy ${escapeHtml(book.title)}" loading="lazy" />
       </div>
       <div class="book__body">
+        ${isNew(book) ? '<span class="new-badge" style="align-self:flex-start;margin-bottom:6px;padding:2px 8px;border-radius:999px;background:#d9480f;color:#fff;font-size:.72rem;font-weight:700;letter-spacing:.04em">NOVÁ</span>' : ""}
         <h2>${escapeHtml(book.title)}</h2>
         <p class="author">${escapeHtml(book.author)}</p>
         <p class="description">${escapeHtml(book.description)}</p>
@@ -106,7 +126,7 @@ fetch("./books.json?v=116")
     return response.json();
   })
   .then((books) => {
-    state.books = books;
+    state.books = newestFirst(books);
     render();
   })
   .catch((error) => {
