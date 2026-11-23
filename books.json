@@ -1147,5 +1147,16 @@
     "rating": null,
     "verificationStatus": "na overenie",
     "receivedAt": "2026-11-17T18:52:40Z"
+  },
+  {
+    "id": "intake-128",
+    "title": "Připrav svůj mozek na éru AI: 4 ověřené kroky, jak se stát nenahraditelným (i bez znalosti technologií)",
+    "author": "Jon Finn",
+    "description": "Kniha predstavuje štyri kroky, ako rozvíjať svoje schopnosti a zostať nenahraditeľným v ére umelej inteligencie.",
+    "cover": "/covers/intake-20261123-185555.jpg",
+    "martinusUrl": "",
+    "rating": null,
+    "verificationStatus": "na overenie",
+    "receivedAt": "2026-11-23T17:55:54.278Z"
   }
 ]
