@@ -1158,5 +1158,16 @@
     "rating": null,
     "verificationStatus": "na overenie",
     "receivedAt": "2026-11-23T17:55:54.278Z"
+  },
+  {
+    "id": "intake-129",
+    "title": "Za hranicou života a smrti: Cesta skutočnej slobody",
+    "author": "Jet Li",
+    "description": "Jet Li rozpráva o svojom živote, stretnutiach so smrťou a duchovnom hľadaní slobody.",
+    "cover": "/covers/intake-20261124-205213.jpg",
+    "martinusUrl": "",
+    "rating": null,
+    "verificationStatus": "na overenie",
+    "receivedAt": "2026-11-24T19:52:07.387Z"
   }
 ]
