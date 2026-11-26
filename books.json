@@ -1180,5 +1180,16 @@
     "rating": null,
     "verificationStatus": "na overenie",
     "receivedAt": "2026-11-25T19:45:02.750Z"
+  },
+  {
+    "id": "intake-131",
+    "title": "Kód hladu: Jak ovládnout hlad a trvale zhubnout",
+    "author": "Jason Fung",
+    "description": "Kniha vysvetľuje, ako ovládať hlad a dosiahnuť trvalé chudnutie.",
+    "cover": "/covers/intake-20261126-123408.jpg",
+    "martinusUrl": "",
+    "rating": null,
+    "verificationStatus": "na overenie",
+    "receivedAt": "2026-11-26T11:34:04.821Z"
   }
 ]
